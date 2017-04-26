@@ -111,6 +111,13 @@
             <artifactId>lwjgl</artifactId>
             <version>2.9.3</version>
         </dependency>
+        
+         <dependency>
+    	<groupId>org.apache.kafka</groupId>
+    	<artifactId>kafka-hadoop-producer</artifactId>
+    	<version>0.8.2.2</version>
+    </dependency>
+    
     </dependencies>
 
     <build>
